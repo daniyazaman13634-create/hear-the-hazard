@@ -1,0 +1,7 @@
+﻿streamlit
+numpy
+pandas
+tensorflow
+tensorflow-hub
+streamlit-webrtc
+av
