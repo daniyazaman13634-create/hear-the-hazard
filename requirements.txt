@@ -1,4 +1,5 @@
-﻿streamlit
+﻿setuptools<81
+streamlit
 numpy
 pandas
 tensorflow
